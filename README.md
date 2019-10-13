@@ -1,9 +1,9 @@
 # helloworld
 I am Özge Hülya Durgut. My departman is Electrical and electronics engineering. 
 Our group name is helloworld, that group members;
-Serra Ece Doğan 116202048, her departman is EEEN,
-Burak Güler 11575012, his departman is CMPE,
-Yağız Gezmen 116200043, his departman is CMPE
+Serra Ece Doğan 116202048, her departman is EEEN;
+Burak Güler 11575012, his departman is CMPE;
+Yağız Gezmen 116200043, his departman is CMPE;
 Devrim Yiğit Hot 115200020, from CMPE.
 
 I support design and electrical operation for our project. This is not certain now, we will support each other. I can also support a part the software. 
